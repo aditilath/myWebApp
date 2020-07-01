@@ -1,2 +1,2 @@
 # myWebApp
-Custom Web App
+This is Custom Web App built for demo purposes. 
