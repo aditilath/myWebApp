@@ -1,7 +1,7 @@
 <project name="My Project" default="help" basedir=".">
   <!-- Define the properties used by the build -->
   <property name="app.name"      value="hello"/>
-  <property name="tcserver.home" value="/opt/pivotal/pivotal-tc-server-standard-3.0.2.RELEASE/tomcat-7.0.50.A.RELEASE" />
+  <property name="tcserver.home" value="/opt/pivotal/pivotal-tc-server-standard-3.2.24.RELEASE/tomcat-7.0.104.B.RELEASE" />
   <property name="work.home"    value="${basedir}/work"/>
   <property name="dist.home"     value="${basedir}/dist"/>
   <property name="src.home"      value="${basedir}/src"/>
